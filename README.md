@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/voidanime-mobile/WhatsApp%20Image%202026-04-03%20at%206.48.56%20PM%20(1).jpeg" width="120" height="120" style="border-radius: 20px;" />
+  <img src="public/voidanime-mobile/logo.png" width="120" height="120" style="border-radius: 20px;" />
   <h1>VoidAnime</h1>
   <p><b>A SLEEK MONOCHROME GLASSMORPHIC ANIME STREAMING APP</b></p>
 
